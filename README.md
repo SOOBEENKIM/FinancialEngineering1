@@ -56,7 +56,8 @@ Integrates data preprocessing, return calculation, and numerical optimization un
 ---
 
 ## 📁 Repository Structure
-financial-engineering/
+financial-engineering1/
+
 ├── Proj1_Problem1.ipynb # Modern Portfolio Theory
 ├── Proj1_Problem2.ipynb # CAPM and Factor Model
 ├── Additional_Problem3.ipynb # Real Data Portfolio Optimization
